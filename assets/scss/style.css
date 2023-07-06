@@ -689,7 +689,7 @@ ul {
 }
 .banner-wrapper .hero-3 .banner-content h3 {
     background-color: rgba(255, 255, 255, 0.8);
-    border: 18px solid #f5d72f;
+    border: 18px solid #ef975d;
     border-radius: 15px;
     padding: 75px 45px;
     background: rgba(255, 255, 255, 0.8705882353);
@@ -852,7 +852,7 @@ ul {
     font-size: 35px;
     line-height: 49px;
     text-transform: uppercase;
-    color: #a82525;
+    color: #e86b17;
     margin-bottom: 28px;
 }
 @media (max-width: 991px) {
@@ -869,7 +869,7 @@ ul {
   font-size: 16px;
   line-height: 30px;
   text-transform: uppercase;
-  color: #df3737;
+  color: #e86b17;
 }
 @media (max-width: 991px) {
   .features .features-content-wrapper .features-content .single-feature-item .item-content .item-desc {
@@ -901,7 +901,7 @@ ul {
     line-height: 98px;
     text-align: center;
     text-transform: uppercase;
-    color: #a71111;
+    color: #e86b17;
     margin: 100px 0;
 }
     .section-title .t-color {
@@ -1390,7 +1390,7 @@ ul {
   font-size: 20px;
   line-height: 1.4;
   text-align: center;
-  color: rgb(151, 39, 39);
+  color:#993f03;
   margin-top: 35px;
 }
     .footer .footer-widgets {
