@@ -127,7 +127,7 @@ ul {
 
 /*header start*/
 .header {
-    background: #ef975d;
+    background: #000000;
     padding-bottom: 5px;
     position: relative;
     z-index: 999;
@@ -501,7 +501,7 @@ ul {
 }
     .banner-wrapper .hero-2 {
         z-index: 3;
-        background-color: #ef975d;
+        background-color: #000000;
         position: relative;
         text-align: center;
     }
@@ -606,7 +606,7 @@ ul {
 }
 .banner-wrapper .hero-2 .banner-icons .single-icon .icon-name {
     font-family: FuturaLTBold;
-    color: #000000;
+    color: #c52a2a;
     font-weight: 700;
     font-size: 20px;
     line-height: 52px;
@@ -674,7 +674,7 @@ ul {
         left: 0;
         width: 100%;
         height: 100%;
-        background: #ef975d;
+        background: #000000;
         opacity: 0.8;
     }
 .banner-wrapper .hero-3 .banner-content {
@@ -733,7 +733,7 @@ ul {
 /*feature start*/
 .features {
     position: relative;
-    background: #ef975d;
+    background: #000000;
     padding: 80px 0;
     z-index: 99;
     padding-bottom: 25px;
@@ -765,7 +765,7 @@ ul {
         font-size: 20px;
         line-height: 1;
         text-transform: uppercase;
-        color: #030201;
+        color: #cc351b;
         padding: 20px;
         box-shadow: -20px -8px 0 #000000;
     }
@@ -852,7 +852,7 @@ ul {
     font-size: 35px;
     line-height: 49px;
     text-transform: uppercase;
-    color: #000000;
+    color: #a82525;
     margin-bottom: 28px;
 }
 @media (max-width: 991px) {
@@ -869,6 +869,7 @@ ul {
   font-size: 16px;
   line-height: 30px;
   text-transform: uppercase;
+  color: #df3737;
 }
 @media (max-width: 991px) {
   .features .features-content-wrapper .features-content .single-feature-item .item-content .item-desc {
@@ -900,7 +901,7 @@ ul {
     line-height: 98px;
     text-align: center;
     text-transform: uppercase;
-    color: #000000;
+    color: #a71111;
     margin: 100px 0;
 }
     .section-title .t-color {
@@ -943,7 +944,7 @@ ul {
     font-size: 20px;
     line-height: 1;
     text-transform: uppercase;
-    color: #030201;
+    color: #b15c07;
     padding: 20px;
     box-shadow: -20px -8px 0 #000000;
 }
@@ -972,7 +973,7 @@ ul {
 /*roadmap start*/
 .road-map {
     position: relative;
-    background: #ef975d;
+    background: #000000;
     padding-bottom: 60px;
     padding-top: 40px;
     position: relative;
@@ -1079,7 +1080,7 @@ ul {
     line-height: 100px;
     text-align: center;
     text-transform: uppercase;
-    color: #ef975d;
+    color: #000000;
     background: #d16015;
     padding: 0 50px;
     border-radius: 10px;
@@ -1215,7 +1216,7 @@ ul {
     font-size: 22px;
     line-height: 31px;
     text-transform: uppercase;
-    color: #ef975d;
+    color: #000000;
     margin-top: 30px;
 }
 @media (max-width: 1199px) {
@@ -1241,7 +1242,7 @@ ul {
 /*faq start*/
 .faq {
     position: relative;
-    background: #ef975d;
+    background: #000000;
     padding-top: 100px;
     z-index: 99;
 }
@@ -1374,7 +1375,7 @@ ul {
 /*footer start*/
 .footer {
     padding: 50px 0;
-    background: #ef975d;
+    background: #000000;
     position: relative;
     z-index: 99;
 }
@@ -1389,7 +1390,7 @@ ul {
   font-size: 20px;
   line-height: 1.4;
   text-align: center;
-  color: rgb(0, 0, 0);
+  color: rgb(151, 39, 39);
   margin-top: 35px;
 }
     .footer .footer-widgets {
